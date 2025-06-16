@@ -1,2 +1,2 @@
 # Student_
-Used 3 cCassification Models
+Used 3 Classification Models
